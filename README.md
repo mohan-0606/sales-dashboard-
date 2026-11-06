@@ -1,6 +1,6 @@
-#📊 Sales Dashboard Analysis
+📊 Sales Dashboard Analysis
 
-##📌 Project Overview
+📌 Project Overview
 
 This project focuses on analyzing sales data and creating an interactive Sales Dashboard to track business performance, identify sales trends, and generate meaningful insights.
 
